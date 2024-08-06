@@ -1,0 +1,48 @@
+Active Directory
+	- Create AD Account
+	- Reset AD Password
+	- Delete AD Account
+	
+Internet/Intranet
+	- Internet Access
+	- WIFI Related
+	- Local Area Network
+	- File Sharing
+	
+E-mail
+	- Create email account(MS365)
+	- Reset email account
+	- Lotus Notes Related
+	- Group email setup
+	- Email Access
+	- Outlook
+	
+Hardware
+	- Request for Laptop/Desktop and other computer parts
+	- Laptop/Desktop Diagnostic
+	- Scan/Reformat Storage Device
+	- Configure/Setup new Laptop/Desktop
+	- Audio/Video Assistance
+	- Printer/Scanner/Photocopier Setup
+	- Printer Connection Issue
+	- Tablet/Cellphone Assistance
+	- IP/VoIP Assistance
+	
+Software
+	- Microsoft Related (MSWord, MSExcel Powerpoint etc.)
+	- Software Installation
+	- Kaseya
+	- PNPKI
+	- Virus/Malware Issues
+	- Other Non-Microsoft Related
+	
+Systems(Inhouse/Outsource)
+	- PMIPS
+	- NCSOIS
+	- eRPMES
+	- PIPOL
+	- PPID
+	- SSOT
+	- CMS
+	- NEDA Website
+	

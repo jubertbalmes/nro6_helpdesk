@@ -1,0 +1,11 @@
+diff a/composer.json b/composer.json	(rejected hunks)
+@@ -13,7 +13,8 @@
+         "laravel/framework": "^8.0",
+         "laravel/legacy-factories": "^1.0",
+         "laravel/tinker": "^2.0",
+-        "laravel/ui": "^3.0"
++        "laravel/ui": "^3.0",
++        "pusher/pusher-php-server": "^7.0"
+     },
+     "require-dev": {
+         "beyondcode/laravel-dump-server": "^1.0",
